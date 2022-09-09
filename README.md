@@ -26,3 +26,9 @@ notebook：https://www.kaggle.com/code/vencerlanz09/tps-eda-9-models-explanation
 |store|書店。KaggleMartとKaggleRamaの2つ|
 |product|本の名前。Kaggle Advanced Techniques・Kaggle Getting Started・Kaggle Recipe Book・Kaggle for Kids: One Smart Gooseの4冊|
 |num_sold|売れた数|
+
+
+## Log
+### 2022/09/10
+- join!
+- 日記を作成
