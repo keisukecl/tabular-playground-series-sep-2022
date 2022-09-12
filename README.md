@@ -55,4 +55,6 @@ Tutorial #2: https://www.youtube.com/watch?v=z3ZnOW-S550
 
 -本全体の売り上げを入手できればkagglemart・kaggleramaの売り上げも予測可能。国も同様。国も過去の比率に基づくので、本全体の売り上げが分かれば過去の比率で分解して国ごとの予測値を求められる。ただし、2020年のみは2020年の割合に基づく。
 
+-nb3のProductに入るところで本日終了
+
 
