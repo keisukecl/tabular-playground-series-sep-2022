@@ -34,3 +34,13 @@ notebook：https://www.kaggle.com/code/vencerlanz09/tps-eda-9-models-explanation
 - 日記を作成
 - 2017年～2020年のデータを使って2021年1年間の各書店の本の売れた数を推定する。曜日や祝日・天気や季節だけでなくコロナの影響を考慮しないといけない。
 - 2021年はワクチン普及のタイミングがキーになる気がする。
+
+
+### 2022/09/12
+- 以下の動画が役立つらしい
+
+Tutorial #1: https://www.youtube.com/watch?v=vV12dGe_Fho
+
+Tutorial #2: https://www.youtube.com/watch?v=z3ZnOW-S550
+
+-nb1ではデータの階層構造を活用方法が、nb2では販売/需要予測への一般的なアプローチが記載
