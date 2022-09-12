@@ -44,3 +44,5 @@ Tutorial #1: https://www.youtube.com/watch?v=vV12dGe_Fho
 Tutorial #2: https://www.youtube.com/watch?v=z3ZnOW-S550
 
 -nb1ではデータの階層構造を活用方法が、nb2では販売/需要予測への一般的なアプローチが記載
+
+-nb3にEDAと線形回帰による予測
